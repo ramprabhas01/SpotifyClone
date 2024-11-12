@@ -1,1 +1,1 @@
-# SpotifyClone
+This project is a simplified Spotify web clone that provides a familiar user interface for exploring and playing music. Built using HTML and CSS, it features a responsive layout, interactive music controls, a library, and song cards with album art. It’s ideal for practicing front-end development and UI/UX design skills.
